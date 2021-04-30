@@ -42,7 +42,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niazmurshedsiam)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=niazmurshedsiam&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=niazmurshedsiam&show_icons=true&count_private=true) 
+
+
+[github]: https://github.com/niazmurshedsiam
+[linkedin]: https://www.linkedin.com/in/niaz-murshed-41527a141/
+[gmail]:  https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
 
 
 
