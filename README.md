@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/niazmurshedsiam](https://github.com/niazmurshedsiam)
 
-- 📝 I regularly write articles on [https://github.com/niazmurshedsiam](https://github.com/niazmurshedsiam)
+- 📝 I regularly write articles on [https://medium.com/@niazmurshed16](https://medium.com/@niazmurshed16)
 
 - 💬 Ask me about **React,JavaScript,ES6,redux,python,bootstrap,html,css**
 
