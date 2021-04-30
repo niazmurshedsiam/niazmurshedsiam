@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React,JavaScript,ES6,redux,python,bootstrap,html,css**
 
-- 📫 How to reach me **https://farhad-portfolio.web.app/contact**
+- 📫 How to reach me **https://github.com/niazmurshedsiam**
 
 
 
