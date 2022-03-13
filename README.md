@@ -1,7 +1,7 @@
 ### Hello, I'm Niaz Murshed siam! 👋
 <h3 align="center">A passionate web developer</h3>
 
-- 🔭 I’m currently working on **Crosscope Dev**
+- 🔭 I’m currently working on **Dhaka Tribune**
 
 - 🌱 I’m currently learning **Everything🤣**
 
