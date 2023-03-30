@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@niazmurshed16](https://medium.com/@niazmurshed16)
 
-- 💬 Ask me about **React,JavaScript,ES6,redux,python,bootstrap,html,css**
+- 💬 Ask me about **C#,Asp.Net core Web Api,Asp.Net MVC,React,JavaScript,ES6,bootstrap,html,css**
 
 - 📫 How to reach me **https://niazmurshedsiam-portfolio.netlify.app/**
 
