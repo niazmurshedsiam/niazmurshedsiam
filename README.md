@@ -5,7 +5,7 @@
 - 🌱 I'm currently learning **Everything 🤣**
 - 👨‍💻 All of my projects are available at [github.com/niazmurshedsiam](https://github.com/niazmurshedsiam)
 - 📝 I regularly write articles on [medium.com/@niazmurshed16](https://medium.com/@niazmurshed16)
-- 💬 Ask me about **C#, ASP.NET Core Web API, ASP.NET MVC, React, JavaScript, ES6, Bootstrap, HTML, CSS**
+- 💬 Ask me about **C#, ASP.NET Core Web API, ASP.NET MVC, Microservices, React, JavaScript, ES6, Bootstrap, HTML, CSS**
 - 📫 How to reach me: [niazmurshedsiam-portfolio.netlify.app](https://niazmurshedsiam-portfolio.netlify.app/)
 - 📄 Know about my experiences: [View Resume](https://drive.google.com/file/d/1ckRVnTqZuxXa3LYK-Vp3Vas5I1YGghZm/view?usp=sharing)
 
@@ -23,7 +23,18 @@
 <h3 align="left">🛠️ Languages & Tools:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,html,css,sass,bootstrap,nodejs,mongodb,git,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,html,css,sass,bootstrap,nodejs,mongodb,git,github,vscode,docker,kubernetes,redis,rabbitmq" alt="Tech Stack" />
+</p>
+
+**Microservices & Backend:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=microgenetics&logoColor=white" alt="Microservices" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core_Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core Web API" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
 </p>
 
 ---
