@@ -1,54 +1,56 @@
-### Hello, I'm Niaz Murshed siam! 👋
+### Hello, I'm Niaz Murshed Siam! 👋
 <h3 align="center">A passionate web developer</h3>
 
-- 🔭 I’m currently working on **Gakk Media Ltd**
+- 🔭 I'm currently working on **Gakk Media Ltd**
+- 🌱 I'm currently learning **Everything 🤣**
+- 👨‍💻 All of my projects are available at [github.com/niazmurshedsiam](https://github.com/niazmurshedsiam)
+- 📝 I regularly write articles on [medium.com/@niazmurshed16](https://medium.com/@niazmurshed16)
+- 💬 Ask me about **C#, ASP.NET Core Web API, ASP.NET MVC, React, JavaScript, ES6, Bootstrap, HTML, CSS**
+- 📫 How to reach me: [niazmurshedsiam-portfolio.netlify.app](https://niazmurshedsiam-portfolio.netlify.app/)
+- 📄 Know about my experiences: [View Resume](https://drive.google.com/file/d/1oaZG5H-YFlgSHaMwqNmnH8DzCgjiRSkr/view?usp=sharing)
 
-- 🌱 I’m currently learning **Everything🤣**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/niazmurshedsiam](https://github.com/niazmurshedsiam)
+<h3 align="left">🌐 Connect with me:</h3>
 
-- 📝 I regularly write articles on [https://medium.com/@niazmurshed16](https://medium.com/@niazmurshed16)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niazmurshedsiam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niaz-murshed-41527a141/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://niazmurshedsiam-portfolio.netlify.app/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@niazmurshed16)
 
-- 💬 Ask me about **C#,Asp.Net core Web Api,Asp.Net MVC,React,JavaScript,ES6,bootstrap,html,css**
+---
 
-- 📫 How to reach me **https://niazmurshedsiam-portfolio.netlify.app/**
+<h3 align="left">🛠️ Languages & Tools:</h3>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oaZG5H-YFlgSHaMwqNmnH8DzCgjiRSkr/view?usp=sharing](https://drive.google.com/file/d/1oaZG5H-YFlgSHaMwqNmnH8DzCgjiRSkr/view?usp=sharing)
-
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,html,css,sass,bootstrap,nodejs,mongodb,git,github,vscode" alt="Tech Stack" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="dotnet" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="35px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
-<br /><br />
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<h3 align="left">📊 GitHub Stats:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niazmurshedsiam)](https://github.com/niazmurshedsiam/niazmurshedsiam)
-![GitHub stats]([https://github-readme-stats.vercel.app](https://github.com/niazmurshedsiam/niazmurshedsiam)/api?username=niazmurshedsiam&show_icons=true&count_private=true) 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=niazmurshedsiam&show_icons=true&count_private=true&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niazmurshedsiam&layout=compact&theme=radical&hide_border=true" height="170" />
+</p>
 
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niazmurshedsiam&theme=radical&hide_border=true" height="170" />
+</p>
 
-[github]: https://github.com/niazmurshedsiam
-[linkedin]: https://www.linkedin.com/in/niaz-murshed-41527a141/
-[gmail]:  https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
+---
 
+<h3 align="left">🏅 GitHub Achievements:</h3>
 
+<a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40"></a>
+<a href="https://docs.github.com/en/developers"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="40" height="40"></a>
+<a href="https://github.com/pricing"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" height="40"></a>
+<a href="https://stars.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" height="35"></a>
+<a href="https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="35" height="35"></a>
 
+---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=niazmurshedsiam&style=flat-square&color=blue" alt="Profile views" />
+</p>
